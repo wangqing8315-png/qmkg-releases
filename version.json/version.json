@@ -1,7 +1,0 @@
-{
-  "version": "dev",
-  "version_code": 1789528548,
-  "git_commit": "ee4ea05",
-  "build_time": "2026-09-16_03:15:48",
-  "release_notes": "### :sparkles: New Features\n- 代码混淆 + 裁剪 *(commit by @boluofan)*\n- Phase 2 *(commit by @boluofan)*\n- Phase 3 *(commit by @boluofan)*\n- Phase4 *(commit by @boluofan)*\n- 移除无用引用 *(commit by @boluofan)*\n- 移除无用引用，应用瘦身 *(commit by @boluofan)*\n- 优化自动构建 *(commit by @boluofan)*\n- 优化自动构建2 *(commit by @boluofan)*\n- 移除无用引用，应用瘦身 *(commit by @boluofan)*\n\n### :bug: Bug Fixes\n- Phase2 *(commit by @boluofan)*\n- Phase2 1 *(commit by @boluofan)*\n- Phase2 2 *(commit by @boluofan)*\n- Phase2 3 *(commit by @boluofan)*\n- Phase2 4 *(commit by @boluofan)*\n- Phase2 5 *(commit by @boluofan)*\n- Phase2 6 *(commit by @boluofan)*\n- Phase1 1 *(commit by @boluofan)*\n- 修复自动构建未登录问题 *(commit by @boluofan)*\n- 修复构建后推送报错问题 *(commit by @boluofan)*\n- 公开仓库强制推送，修复报错问题 *(commit by @boluofan)*\n- 修复推送报错问题 *(commit by @boluofan)*\n\n### :wrench: Chores\n- 更新 12 个文件"
-}
